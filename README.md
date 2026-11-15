@@ -5,17 +5,17 @@ FixProof is an AI-powered web accessibility testing and remediation platform. It
 
 ## Screenshots
 
-<!-- Screenshot 1: Main Dashboard -->
-<!-- Add image here -->
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-<!-- Screenshot 2: Accessibility Scan Results -->
-<!-- Add image here -->
+### Accessibility Scan Results
+![Scan Results](screenshots/scan-results.png)
 
-<!-- Screenshot 3: AI-Powered Recommendations -->
-<!-- Add image here -->
+### Detailed Scan Results
+![Detailed Scan Results](screenshots/scan-results-2.png)
 
-<!-- Screenshot 4: Fix Verification -->
-<!-- Add image here -->
+### AI Recommendations
+![AI Recommendations](screenshots/ai-recommendations.png)
 
 ## Problem
 
